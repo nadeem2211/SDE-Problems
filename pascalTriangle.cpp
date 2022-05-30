@@ -17,6 +17,7 @@ public:
             //
 
             // for (int j = 1;j < i; j++){
+            /*I got better result in memory and runtime using below approach*/
             for (int j = 0; j <= i; j++)
             {
                 // on edge's index
